@@ -1,0 +1,33 @@
+.contenedor{
+    width: 350px;
+    height: 450px;
+    padding-left: 20px;
+}
+.fondo{
+    background-image: url("./image 65.svg");
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.texto-titulo {
+    font-size: 35px; 
+    list-style: 34.50px;
+    color: #542b12;
+    margin-left: 30px;
+}
+.texto-titulo-2{
+    color: red;
+    font-size: 35px; 
+    list-style: 34.50px;
+    margin-left: 30px;
+}
+.texto-parrafo{
+    color: #935614;
+    margin-top: 90px;
+    margin-left: 30px;
+    margin-bottom: 190px;
+    font-size: 25px;
+    font-weight: 600;
+}
