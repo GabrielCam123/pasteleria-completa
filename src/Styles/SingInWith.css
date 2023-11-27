@@ -1,0 +1,17 @@
+.registrarse-estilos{
+    color: #5b5b5e;
+    font-size: 16px;
+}
+.linea{
+    width: 100px;
+    height: 0px;
+    border: 2px #b3b3b380 solid;
+    border: 50%;
+}
+.singinwith{
+    width: 324px;
+    height: 20px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+}

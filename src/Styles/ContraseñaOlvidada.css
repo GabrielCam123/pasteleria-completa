@@ -1,0 +1,15 @@
+.contenedor{
+    display: flex;
+    justify-content: flex-end;
+    width: 90%;
+    height: 30px;
+    margin-bottom: 30px;
+
+}
+.botonizquierda{
+    text-align: center;
+    background-color: transparent;
+    display: flex;
+    align-items:center;
+    color: #505050;
+}

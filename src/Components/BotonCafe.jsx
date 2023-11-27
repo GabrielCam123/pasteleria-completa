@@ -2,7 +2,7 @@ import React from 'react'
 import "../Styles/BotonCafe.css"
 function BotonCafe(props) {
   return (
-    <div className='uwu'>
+    <div className="uwu">
         <button className="boton-cafe">
             <p>{props.texto}</p>
         </button>
@@ -10,4 +10,4 @@ function BotonCafe(props) {
   )
 }
 
-export default BotonCafe
+export default BotonCafe;
