@@ -6,6 +6,9 @@
 .entradasdedatos{
     width: 390px;
     height: 340px;
+    background-image: url("./cupckake 2.svg");
+    background-position: right;
+    background-repeat: no-repeat;
 }
 .tituloestilo{
     margin-top:90px;

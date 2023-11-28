@@ -1,12 +1,14 @@
-import React from 'react'
-import "../Styles/IniciarConGoogle.css"
+import React from "react";
+import "../Styles/IniciarConGoogle.css";
 function IniciarConGoogle() {
   return (
-    <button className="contenedorgoogle">
-        <img src="./Group 23.svg"/>
+    <div className="contenedor">
+      <button className="contenedorgoogle">
+        <img src="./Group 23.svg" />
         <p>Log in With google</p>
-    </button>
-  )
+      </button>
+    </div>
+  );
 }
 
-export default IniciarConGoogle
+export default IniciarConGoogle;
