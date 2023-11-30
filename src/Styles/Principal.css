@@ -1,0 +1,11 @@
+.estiloprincipal{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.estiloseleccion{
+    display: flex;
+}
+.estiloseleccion1{
+    display: flex;
+}
