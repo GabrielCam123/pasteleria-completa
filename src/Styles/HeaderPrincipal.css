@@ -1,4 +1,4 @@
-.contenedor{
+.contenedorheaderprincipal{
     width: 90%;
     display: flex;
     justify-content: space-between;
@@ -6,6 +6,7 @@
     margin-top: 20px;
     height: 30px;
     padding: 0;
+    margin-bottom: 20px;
 }
 .cupcake{
     background-color: transparent;

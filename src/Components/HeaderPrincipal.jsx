@@ -2,7 +2,7 @@ import React from 'react'
 import "../Styles/HeaderPrincipal.css"
 function HeaderPrincipal() {
   return (
-    <div className='contenedor'>
+    <div className='contenedorheaderprincipal'>
         <button className='cupcake'>
             <img src="./image 29.svg" alt="cupcake" />
         </button>

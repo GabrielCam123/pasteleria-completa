@@ -1,0 +1,51 @@
+export const pastel = [
+    {
+      titulo: "Pastel de vainilla",
+      descripcion:"Choose a sedan for its affordability and excellent fuel economy. Ideal for cruising in the city or on your next road trip.",
+      imgUrl: "/Vainilla.svg",
+      precio:"115 Bs.",
+      disponible:"10 disponibles",
+    },
+    {
+      titulo: "Pastel Red Velvet",
+      descripcion:"Take an SUV for its spacious interior, power, and versatility. Perfect for your next family vacation and off-road adventures",
+      imgUrl: "/Red_Velvet.svg",
+      precio:"125 Bs.",
+      disponible:"20 disponibles",
+    },
+    {
+      titulo: "Pastel de Chocolate",
+      descripcion:"Cruise in the best car brands without the bloated prices. Enjoy the enhanced comfort of a luxury rental and arrive in style.",
+      imgUrl: "/Chocolate.svg",
+      precio:"130 Bs.",
+      disponible:"15 disponibles",
+    },
+    {
+      titulo: "Pastel de Capuccion",
+      descripcion:"Cars with a sporty and elegant design, usually with two doors, although some may have four doors.",
+      imgUrl: "/Capuccino.svg",
+      precio:"150 Bs.",
+      disponible:"8 disponibles",
+    },
+    {
+      titulo: "Pastel de Maracuya",
+      descripcion:"Vehicles designed primarily for the transportation of cargo or passengers. They can range in size from small vans to large commercial vans.",
+      imgUrl: "/Maracuyá.svg",
+      precio:"155 Bs.",
+      disponible:"7 disponibles",
+    },
+    {
+      titulo: "Pastel Volcan",
+      descripcion:"Cars designed for loading and towing, ideal for heavy duty work and outdoor activities.",
+      imgUrl: "/Volcan.svg",
+      precio:"145 Bs.",
+      disponible:"3 disponibles",
+    },
+    {
+      titulo: "Pastel de frutas",
+      descripcion:"Cars with retractable or removable roofs that allow driving outdoors.",
+      imgUrl: "/Pastel_de_fruta.svg",
+      precio:"155 Bs.",
+      disponible:"8 disponibles",
+    },
+  ]

@@ -5,7 +5,10 @@
 }
 .estiloseleccion{
     display: flex;
+    flex-direction: column;
 }
 .estiloseleccion1{
     display: flex;
+    justify-content: space-between;
+    align-items: center;
 }

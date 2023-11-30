@@ -5,6 +5,7 @@ import BotonCafe from './BotonCafe'
 import ConOSincuenta from './ConOSincuenta'
 import SingInWith from './SingInWith'
 import IniciarConGoogle from './IniciarConGoogle'
+import { Link } from 'react-router-dom'
 function Registrate(props) {
     const texto1="Full Name"
     const texto2="Email or Number"
@@ -23,7 +24,9 @@ function Registrate(props) {
                 <EntradadeDatos texto={texto2}/>
                 <EntradadeDatos texto={texto3}/>
             </div>
-            <BotonCafe texto={texto4}/>
+            <Link to='/principal'>
+              <BotonCafe texto={texto4}/>
+            </Link>
             <ConOSincuenta texto={texto5} accion={accion}/>
             <SingInWith/>
             <IniciarConGoogle/>
